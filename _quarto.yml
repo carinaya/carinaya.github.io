@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Quarto_website"
+  title: "Kun (Carina) Ya"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: sketchy
     css: styles.css
     toc: true
 

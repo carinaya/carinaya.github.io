@@ -2,15 +2,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto_website",
+    "title": "Hello! This is Kun(Carina) Ya.",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "DATA ANALYST | STARTUP | UBC MDS | BENTLEY UNIVERSITY MSMA\nI am a UBC MDS candidate, with 3-year working experiences as data analyst and 1-year with AI starup."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Github\n  \n\n      \nSkilled, creative, and energetic data analyst of 3 years working experience with extensive knowledge in CRM, MMM model, EC analysis and data product design and development. Previously built an audience model with limited historical data in a creative way for Oreo new product to achieve a 20% ROI improvement. The project has received the Data Insight Award by ByteDance and the Golden Award by ROI Festival, Asia largest business creative awards.\nMoreover, co-founded an AI company that helps organizations to optimize their hiring process in terms of quality and efficiency. My team were awarded a total of $50,000 from HKUST and Nanjing government respectively.\nFurthermore, achieved outstanding academic performance at Bentley University, graduating with High Distinction and honored member of Beta Gamma Sigma, and issued an article on International Journal of Social Science and Business as the 1st contributor.\n\n\nUniversity of British Columbia | Vancouver, Canada\n\n\nBentley University | Waltham, USA\n\n\n\nCommunication University of China | Beijing, China\n\n\n\n\n\n\n\nPublicis Groupe | Associate Manager | Aug 2019 - Oct 2020 & Sep 2021 - Jun 2023\nEQuantify Technology Co., Ltd | Co-founder | Aug 2020 - Aug 2021"
+  },
+  {
+    "objectID": "about.html#about-this-blog",
+    "href": "about.html#about-this-blog",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "This is the contents of the about page for my blog."
+  },
+  {
+    "objectID": "index.html#hello-this-is-kuncarina-ya.",
+    "href": "index.html#hello-this-is-kuncarina-ya.",
+    "title": "Kun(Carina) YA",
+    "section": "Hello! This is Kun(Carina) Ya.",
+    "text": "Hello! This is Kun(Carina) Ya.\nI am a UBC MDS candidate, with 3-year working experiences as data analyst and 1-year with AI starup."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "University of British Columbia | Vancouver, Canada\n\n\nBentley University | Waltham, USA\n\n\n\nCommunication University of China | Beijing, China"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "Publicis Groupe | Associate Manager | Aug 2019 - Oct 2020 & Sep 2021 - Jun 2023\nEQuantify Technology Co., Ltd | Co-founder | Aug 2020 - Aug 2021"
   }
 ]
